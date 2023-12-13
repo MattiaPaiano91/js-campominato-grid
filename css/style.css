@@ -1,0 +1,25 @@
+
+header{
+    height: 100px;
+}
+
+.box-image{
+    width: 50px;
+}
+
+.grid-box{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    width: 10%;
+    height: 150px;
+    border: 1px solid black;
+    font-size: large;
+    text-align: center;
+    background-color: darkgray;
+}
+
+.clicked{
+    background-color: aqua;
+}
